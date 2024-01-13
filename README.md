@@ -19,3 +19,25 @@ git push origin -d <branch_name>
 # Delete the 'test' branch on the remote repository
 git push origin -d test
 
+=========================================================================
+# How to List Tags
+# List all tags
+git tag
+Thisi commands will display the list of tags in your local repository.
+
+Fetch tags from the remote repository
+git fetch --tags
+List all tags
+git tag -l
+
+=======================================================
+# How to Delete a Tag Locally and Remotely
+Delete Tag Locally:
+git tag -d tagName
+Delete a remote tag
+git push --delete origin tagName
+
+====================================================
+
+![Space-Invaders3](https://github.com/maghfra/day02_task01/assets/156420828/a42ee67b-5f8d-4c24-bef4-e822e3024ab4)
+
