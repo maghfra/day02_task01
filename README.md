@@ -38,6 +38,8 @@ Delete a remote tag
 git push --delete origin tagName
 
 ====================================================
+
+
 ![readme](https://github.com/maghfra/day02_task01/assets/156420828/b62dc712-e6f0-41e9-a639-ad0eef2c7e73)
 
 ===================================================
